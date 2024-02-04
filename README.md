@@ -1,2 +1,2 @@
 # git-sample
-sample project
+This is a Sample Project
